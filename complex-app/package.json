@@ -1,0 +1,10 @@
+{
+  "name": "complex-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.0",
+    "hapi-pino": "^8.3.0"
+  }
+}
